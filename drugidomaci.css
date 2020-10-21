@@ -1,0 +1,50 @@
+
+table {
+    width: 2px;   
+    
+
+}
+
+table, th, td {
+
+border: 2px solid green ;
+border-collapse: collapse;
+font-family: 'Times New Roman', Times, serif;
+
+
+margin: 0px;
+padding: 0px; }
+
+.forma{
+
+border: solid green ;
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+width: 500px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id {
+
+background-color: #66B266;
+color: red;
+
+
+
+}
+
+.forma1 {
+
+text-align: right;
+width: 70px;
+display: inline-block;
+padding-left: 100px;
+padding-bottom: 20px;
+}
+
+.margina {
+
+margin-right: 50px;
+
+}
